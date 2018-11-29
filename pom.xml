@@ -11,7 +11,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>11</java.version>
-        <d1proxy.version>1.9.1</d1proxy.version>
+        <d1proxy.version>1.10</d1proxy.version>
 
         <plugin.id>exampleplugin</plugin.id>
         <plugin.class>fr.aquazus.exampleplugin.ExamplePluginWrapper</plugin.class>
